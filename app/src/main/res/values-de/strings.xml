@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">App004Kolo</string>
+    <string name="main_title">Fahrradbestellung</string>
+    <string name="subtitle_select_bike">Welches Fahrrad möchten Sie bestellen?</string>
+    <string name="bike_oiz_m10">Oiz M10</string>
+    <string name="bike_oiz_m20">Oiz M20</string>
+    <string name="bike_oiz_m30">Oiz M30</string>
+    <string name="option_fork">Bessere Gabel</string>
+    <string name="option_saddle">Besserer Sattel</string>
+    <string name="option_handlebar">Carbon-Lenker</string>
+    <string name="btn_order">Jetzt bestellen</string>
+    <string name="order_summary_placeholder">Bestellübersicht</string>
+    <string name="bike_image_content_description">Fahrradfoto</string>
+    <string name="order_summary_title">Bestellübersicht:</string>
+    <string name="item_format">• %1$s: %2$s CZK</string>
+    <string name="total_price_format">Gesamtpreis: %s CZK</string>
+    <string name="order_success_msg">Bestellung erfolgreich aufgegeben!</string>
+</resources>

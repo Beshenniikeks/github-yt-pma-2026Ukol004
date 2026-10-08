@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">App004Kolo</string>
+    <string name="main_title">Objednávka kola</string>
+    <string name="subtitle_select_bike">Jaké kolo si chcete objednat?</string>
+    <string name="bike_oiz_m10">Oiz M10</string>
+    <string name="bike_oiz_m20">Oiz M20</string>
+    <string name="bike_oiz_m30">Oiz M30</string>
+    <string name="option_fork">Lepší vidlice</string>
+    <string name="option_saddle">Lepší sedlo</string>
+    <string name="option_handlebar">Karbonová řídítka</string>
+    <string name="btn_order">Objednat</string>
+    <string name="order_summary_placeholder">Souhrn objednávky</string>
+    <string name="bike_image_content_description">Fotografie kola</string>
+    <string name="order_summary_title">Souhrn objednávky:</string>
+    <string name="item_format">• %1$s: %2$s Kč</string>
+    <string name="total_price_format">Celková cena: %s Kč</string>
+    <string name="order_success_msg">Objednávka byla úspěšně odeslána!</string>
+</resources>
